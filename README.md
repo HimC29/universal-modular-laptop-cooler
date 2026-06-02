@@ -18,11 +18,11 @@ A universal, modular laptop ecosystem designed to adapt dynamically to **any** l
 
 | Feature | Cheap Generic Pads | High-End Turbo Pads (IETS/Llano) | My Modular Grid Design |
 | :--- | :--- | :--- | :--- |
-| **Targeted Vent Alignment** | ❌ No (Fixed fans blow at solid plastic) | ❌ No (Forcibly seals the *entire* laptop base) | **✓ Yes** (Fan modules adjust to match exact vent grids) |
-| **Airtight Foam Seal** | ❌ No (Air escapes uselessly out the sides) | ✓ Yes (Requires loud, industrial turbo power) | **✓ Yes** (Localized seal provides max pressure efficiently) |
-| **Future-Proof Utility** | ❌ No (Becomes obsolete if you buy a new laptop) | ⚠️ Partial (Only fits specific chassis dimensions) | **✓ Yes** (100% universal configuration layout) |
-| **Noise & Efficiency** | Medium / Inefficient | ❌ Extremely Loud (Industrial high-RPM noise) | **✓ Low-Medium** (Optimized 5V airflow via smart placement) |
-| **Ergonomic Stability** | ⚠️ Unbalanced on single-vent laptops | ✓ Yes | **✓ Yes** (Passive blocks eliminate chassis wobble entirely) |
+| **Targeted Vent Alignment** | ❌ No (Fixed fans blow at solid plastic) | ❌ No (Forcibly seals the *entire* laptop base) | **✅ Yes** (Fan modules adjust to match exact vent grids) |
+| **Airtight Foam Seal** | ❌ No (Air escapes uselessly out the sides) | ✅ Yes (Requires loud, industrial turbo power) | **✅ Yes** (Localized seal provides max pressure efficiently) |
+| **Future-Proof Utility** | ❌ No (Becomes obsolete if you buy a new laptop) | ⚠️ Partial (Only fits specific chassis dimensions) | **✅ Yes** (100% universal configuration layout) |
+| **Noise & Efficiency** | Medium / Inefficient | ❌ Extremely Loud (Industrial high-RPM noise) | **✅ Low-Medium** (Optimized 5V airflow via smart placement) |
+| **Ergonomic Stability** | ⚠️ Unbalanced on single-vent laptops | ✅ Yes | **✅ Yes** (Passive blocks eliminate chassis wobble entirely) |
 
 ---
 
