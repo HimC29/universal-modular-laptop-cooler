@@ -8,7 +8,7 @@ Most off-the-shelf laptop cooling pads have fixed fans locked into permanent pos
 A universal, modular laptop ecosystem designed to adapt dynamically to **any** laptop's thermal layout. The system consists of three main components:
 
 *   **The Grid Platform:** A robust, elevated chassis featuring a dense grid of mounting holes across the surface (similar to an engineering pegboard).
-*   **Active Fan Blocks:** Interchangeable squares of varying sizes housing high-pressure 5V 1A blower fans lined with soft, open-cell foam gaskets. These modules bolt anywhere onto the grid to target your laptop's vents precisely, creating a localized airtight plenum chamber that forces cool air exactly where the internal heatsinks need it.
+*   **Active Fan Blocks:** Interchangeable squares of varying sizes housing high-pressure 5V 1A blower fans lined with soft, closed-cell foam gaskets. These modules bolt anywhere onto the grid to target your laptop's vents precisely, creating a localized airtight plenum chamber that forces cool air exactly where the internal heatsinks need it.
 *   **Passive Support Blocks:** Non-ventilated modular blocks topped with high-friction rubber padding. These screw into the remaining grid coordinates to distribute the laptop’s weight evenly, ensuring a perfectly level typing surface with zero tipping risks.
 
 ---
@@ -20,7 +20,7 @@ A universal, modular laptop ecosystem designed to adapt dynamically to **any** l
 | :--- | :--- | :--- | :--- |
 | **Targeted Vent Alignment** | ❌ No (Fixed fans blow at solid plastic) | ❌ No (Forcibly seals the *entire* laptop base) | **✅ Yes** (Fan modules adjust to match exact vent grids) |
 | **Airtight Foam Seal** | ❌ No (Air escapes uselessly out the sides) | ✅ Yes (Requires loud, industrial turbo power) | **✅ Yes** (Localized seal provides max pressure efficiently) |
-| **Future-Proof Utility** | ❌ No (Becomes obsolete if you buy a new laptop) | ⚠️ Partial (Only fits specific chassis dimensions) | **✅ Yes** (100% universal configuration layout) |
+| **Future-Proof Utility** | ❌ No (Becomes obsolete if you buy a new laptop) | ⚠️ Partial (Only fits specific chassis dimensions) | **✅ Yes** (Adapts to a wide variety of laptop intake layouts) |
 | **Noise & Efficiency** | Medium / Inefficient | ❌ Extremely Loud (Industrial high-RPM noise) | **✅ Low-Medium** (Optimized 5V airflow via smart placement) |
 | **Ergonomic Stability** | ⚠️ Unbalanced on single-vent laptops | ✅ Yes | **✅ Yes** (Passive blocks eliminate chassis wobble entirely) |
 
